@@ -1,0 +1,5 @@
+{
+  "name": "PRL Ops Panel",
+  "description": "Industrial operational panel for Prevention of Occupational Risks (PRL) with a tactile-first interface.",
+  "requestFramePermissions": ["microphone"]
+}
